@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Any number of images of our choice -->
+    <item android:drawable="@drawable/f1"/>
+    <item android:drawable="@drawable/f2"/>
+    <item android:drawable="@drawable/r3"/>
+    <item android:drawable="@drawable/r4"/>
+
+</layer-list>
